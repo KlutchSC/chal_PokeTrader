@@ -1,0 +1,6 @@
+C:\Users\joe.andrews\Documents\Other Projects\chal_PokeTrader\chal_PokeTrader\bin\Debug\chal_PokeTrader.exe.config
+C:\Users\joe.andrews\Documents\Other Projects\chal_PokeTrader\chal_PokeTrader\bin\Debug\chal_PokeTrader.exe
+C:\Users\joe.andrews\Documents\Other Projects\chal_PokeTrader\chal_PokeTrader\bin\Debug\chal_PokeTrader.pdb
+C:\Users\joe.andrews\Documents\Other Projects\chal_PokeTrader\chal_PokeTrader\obj\Debug\chal_PokeTrader.csprojResolveAssemblyReference.cache
+C:\Users\joe.andrews\Documents\Other Projects\chal_PokeTrader\chal_PokeTrader\obj\Debug\chal_PokeTrader.exe
+C:\Users\joe.andrews\Documents\Other Projects\chal_PokeTrader\chal_PokeTrader\obj\Debug\chal_PokeTrader.pdb
